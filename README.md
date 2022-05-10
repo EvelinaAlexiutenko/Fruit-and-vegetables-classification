@@ -40,4 +40,3 @@ python version- 3.6.2
   <summary><em>Web application using Flask</em></summary>
   You can find video of testing my web application <a href="https://youtu.be/43Vexiiac5k">here</a>. You can use my weights, which you can find in directory saved_model or you can train your model and save weights by running file <a href="https://github.com/EvelinaAlexiutenko/Fruit-and-vegetables-classification/blob/main/Fruits_and_vegetables.ipynb">Fruit-and-vegetables-classification</a><br> 
   </details>
-<details>
