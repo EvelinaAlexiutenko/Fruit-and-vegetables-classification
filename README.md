@@ -38,14 +38,15 @@ python version- 3.6.2
   This latter approach is preferred as the FaceNet model is both large and slow to create a face embedding.
   </details>
   <details>
-  <summary><em>Perform Face Classification with SVM</em></summary>
-  We will use the SVM classifier model to predict by embedding the identity of a given face.<br>
-  Testing on validation sample:
+  <summary><em>2D visualization using TSNE</em></summary>
+  I use TSNE to depict the distribution of classes.
   <br>
-  <img src="https://user-images.githubusercontent.com/58363847/167368208-6ed927fe-fdf6-4576-9c4e-6bcd2804c29c.jpg" wight = 300 height =300/><br>
+  Result:
+  <br>
+  <img src="https://user-images.githubusercontent.com/58363847/167635987-450c81f2-b73f-45e1-9191-aedb13af4896.jpg" wight = 300 height =300/><br>
   </details>
   <details>
-  <summary><em>Real-time webcam face recognition</em></summary>
+  <summary><em>Web application using Flask</em></summary>
   You can find video of testing my real-time webcam demo in the link above. Also by running file FaceDetector.py you can test it by yourself. But before it you need to   built training dataset and make embedins be running FaceTrainder.py. For faster recognition you need to use CUDA. 
   </details>
 <details>
