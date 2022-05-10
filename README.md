@@ -26,7 +26,7 @@ python version- 3.6.2
   <summary><em>Fine-tuning model</em></summary>
   As a fine-tuning I add this layers:<br>
   <img src="https://user-images.githubusercontent.com/58363847/167637983-ca68e0e2-9837-4196-8a6d-533e91e059c7.png"/><br>
-  And the last five layers of the base model were also unfrozen and trained.
+  And the last five layers of the base model were also unfrozen and trained. After fine-tuning accuracy increased to: 0.92514.
   </details>
   <details>
   <summary><em>2D visualization using TSNE</em></summary>
