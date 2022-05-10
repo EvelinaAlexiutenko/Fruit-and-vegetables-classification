@@ -1,0 +1,20 @@
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+# Python
+__pycache__/
+
+# Directories
+venv/
+data/
+.ipynb_checkpoints/
+static/uploads/
+
+# Files
+*.docx
