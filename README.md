@@ -4,9 +4,10 @@ Image classification using ResNet50 model and Flask web application.
 <img src="https://user-images.githubusercontent.com/58363847/167606900-62e6e89d-7261-4ac3-be00-f98c38ea947f.png" width="450" height="300" />
 <img src="https://user-images.githubusercontent.com/58363847/167606928-f4433c1b-e08b-45c4-aedd-921be332a43b.png" width="450" height="300" /><br>
 To see the video about testing web-app click here:
-<a href="https://youtu.be/2NHvwepAyAk">Image </a><br>
+<a href="https://youtu.be/43Vexiiac5k">ResNet-50 web-app for image classification</a><br>
 The dataset you can find <a href="https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition">here</a>.
 <br>
+
 ## Requirements:
 cuda_11.2 <br>
 python version- 3.6.2
